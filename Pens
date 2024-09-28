@@ -1,1 +1,25 @@
-/summon zombie 100 100 100
+{
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 16777215,
+    "fog_color": 16711680,
+    "water_color": 4159204,
+    "water_fog_color": 329011,
+    "mood_sound": {
+      "sound": {
+        "sound_id": "minecraft:flame",
+        "range": 10
+      },
+      "tick_delay": 1,
+      "block_search_extent": 0,
+      "offset": 0
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": []
+}
+
